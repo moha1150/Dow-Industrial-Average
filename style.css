@@ -1,0 +1,12 @@
+/* CSS for the web app */
+
+#app {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#chart {
+    height: 400px;
+    width: 100%;
+}
